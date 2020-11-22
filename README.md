@@ -11,10 +11,11 @@ Welcome to my github profile!! I love to solve real world challenges with the he
 - ⚡ Fun fact: I love to travel and listen to music !
 
 - ### Connect with me:
-
-[<img align="left" alt="Sudharsan Thiyagarajan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail.svg" />](mailto:sudharsansriram8921@gmail.com)
+<a href="mailto:sudharsansriram8921@gmail.com">
+<img align="left" alt="Sudharsan Thiyagarajan | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail.svg" />
+  </a>
 [<img align="left" alt="Sudharsan Thiyagarajan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sudharsan-thiyagarajan-125573166/)
-[<img align="left" alt="Sudharsan Thiyagarajan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://wa.me/message/IXZ3NFRRSGNCH1)
+[<img align="left" alt="Sudharsan Thiyagarajan | Whats App" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://wa.me/message/IXZ3NFRRSGNCH1)
 
 <br />
 
@@ -44,6 +45,6 @@ Welcome to my github profile!! I love to solve real world challenges with the he
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sudharsan004&repo=auto" />
 </a>
 
-<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sudharsan004)   -->
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sudharsan004)   
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sudharsan004) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sudharsan-thiyagarajan-125573166/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/message/IXZ3NFRRSGNCH1)
+
