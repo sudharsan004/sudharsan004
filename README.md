@@ -39,10 +39,10 @@ Welcome to my github profile!! I love to solve real world challenges with the he
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/sudharsan004/docjini">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sudharsan004&repo=docjini" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/sudharsan004/auto">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sudharsan004&repo=auto" />
 </a>
 
