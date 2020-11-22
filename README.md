@@ -11,11 +11,11 @@ Welcome to my github profile!! I love to solve real world challenges with the he
 - ⚡ Fun fact: I love to travel and listen to music !
 
 - ### Connect with me:
-<a href="mailto:sudharsansriram8921@gmail.com">
-<img align="left" alt="Sudharsan Thiyagarajan | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail.svg" />
-  </a>
-[<img align="left" alt="Sudharsan Thiyagarajan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sudharsan-thiyagarajan-125573166/)
-[<img align="left" alt="Sudharsan Thiyagarajan | Whats App" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://wa.me/message/IXZ3NFRRSGNCH1)
+
+[<img align="left" alt="Sudharsan Thiyagarajan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="Sudharsan Thiyagarajan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Sudharsan Thiyagarajan | Whats App" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+
 
 <br />
 
@@ -46,5 +46,9 @@ Welcome to my github profile!! I love to solve real world challenges with the he
 </a>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sudharsan004)   
+
+[whatsapp]: https://wa.me/message/IXZ3NFRRSGNCH1
+[linkedin]: https://www.linkedin.com/in/sudharsan-thiyagarajan-125573166/
+[email]: mailto:sudharsansriram8921@gmail.com
 
 
