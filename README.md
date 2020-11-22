@@ -1,16 +1,20 @@
-### Hi there 👋
-I am Sudharsan Thiyagarajan, Welcome to my github profile!! I love to solve real world challenges with the help of my programming knowledge, I like and work with javascript & python mostly, especially in react and django frameworks.
+### Hi there, I am Sudharsan Thiyagarajan 👋
 
+Welcome to my github profile!! I love to solve real world challenges with the help of my programming knowledge, I like and work with javascript & python mostly, especially in react and django frameworks.
 
-Skills: REACT / DJANGO / JS / PYTHON / HTML / CSS
+## I do them joyfully!!
+
+- 🔭 Make my skills sharp by building real world projects
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other Developers/Team
+- 🥅 2020 Goals: Learn-> Apply-> Be blissful
+- ⚡ Fun fact: I love to travel and listen to music !
 
 - ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Sudharsan Thiyagarajan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail.svg" />](mailto:sudharsansriram8921@gmail.com)
+[<img align="left" alt="Sudharsan Thiyagarajan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sudharsan-thiyagarajan-125573166/)
+[<img align="left" alt="Sudharsan Thiyagarajan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://wa.me/message/IXZ3NFRRSGNCH1)
 
 <br />
 
@@ -33,8 +37,6 @@ Skills: REACT / DJANGO / JS / PYTHON / HTML / CSS
 
 ---
 
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sudharsan004&repo=docjini" />
 </a>
@@ -42,6 +44,6 @@ Skills: REACT / DJANGO / JS / PYTHON / HTML / CSS
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sudharsan004&repo=auto" />
 </a>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sudharsan004)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sudharsan004)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sudharsan-thiyagarajan-125573166/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/message/IXZ3NFRRSGNCH1)  
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sudharsan004)   -->
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sudharsan004) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sudharsan-thiyagarajan-125573166/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/message/IXZ3NFRRSGNCH1)
