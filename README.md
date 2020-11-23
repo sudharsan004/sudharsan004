@@ -47,7 +47,7 @@ Welcome to my github profile!! I love to solve real world challenges with the he
 </a>
 
 ## Github Stats
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sudharsan004)   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sudharsan004)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sudharsan004&show_icons=true&theme=radical)   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sudharsan004&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [whatsapp]: https://wa.me/message/IXZ3NFRRSGNCH1
 [linkedin]: https://www.linkedin.com/in/sudharsan-thiyagarajan-125573166/
