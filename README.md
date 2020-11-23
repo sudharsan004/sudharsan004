@@ -10,7 +10,7 @@ Welcome to my github profile!! I love to solve real world challenges with the he
 - 🥅 2020 Goals: Learn-> Apply-> Be blissful
 - ⚡ Fun fact: I love to travel and listen to music !
 
-- ### Connect with me:
+### Connect with me:
 
 [<img align="left" alt="Sudharsan Thiyagarajan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 [<img align="left" alt="Sudharsan Thiyagarajan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
