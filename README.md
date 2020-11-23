@@ -38,7 +38,7 @@ Welcome to my github profile!! I love to solve real world challenges with the he
 
 <br />
 
-
+## Top Repositories..
 <a href="https://github.com/sudharsan004/docjini">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sudharsan004&repo=docjini" />
 </a>
@@ -46,6 +46,7 @@ Welcome to my github profile!! I love to solve real world challenges with the he
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sudharsan004&repo=auto" />
 </a>
 
+## Github Stats
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sudharsan004)   
 
 [whatsapp]: https://wa.me/message/IXZ3NFRRSGNCH1
