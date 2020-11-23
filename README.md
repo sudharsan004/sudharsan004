@@ -1,4 +1,5 @@
 ### Hi there, I am Sudharsan Thiyagarajan 👋
+[![image](https://fontmeme.com/permalink/201123/9a71b8c7cd771fd8fffe2a472746b970.png)](https://github.com/sudharsa004?tab=repositories)
 
 Welcome to my github profile!! I love to solve real world challenges with the help of my programming knowledge, I like and work with javascript & python mostly, especially in react and django frameworks.
 
