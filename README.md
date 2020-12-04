@@ -3,7 +3,7 @@
 
 Welcome to my github profile!! I love to solve real world challenges with the help of my programming knowledge, I like and work with javascript & python mostly, especially in react and django frameworks.
 
-## I do them joyfully!!
+## I do it joyfully!!
 
 - 🔭 Make my skills sharp by building real world projects
 - 🌱 I’m currently learning everything 🤣
